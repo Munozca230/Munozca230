@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://64.media.tumblr.com/09c969521a7bf5bcecf1fdfd7cbd0f34/2ab509ef5132c232-0b/s540x810/33db1a77865bf174e8d1e5f63584417924c01668.jpg" align="center" style="width: 100%" />
+<img src="https://64.media.tumblr.com/767193147c541ee57ff06b3f3b354905/b194749dd8f6e6f6-e4/s2048x3072/d15b1b0a71badc9d7b257430696e5da72aefe5d2.pnj" align="center" style="width: 100%" />
 </div>  
   
 
@@ -22,7 +22,7 @@
 
 
 ## My Skill Set  
-<table><tr><td valign="top" width="47%">
+<table align="center"><tr><td valign="top" width="47%">
 
 
 
