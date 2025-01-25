@@ -6,42 +6,51 @@
 ### <div align="center">👋 Hello, I’m José Muñoz, Backend Developer👋</div>  
   
 
-- 💻 I’m a student passionate about programming and back-end development 💻  
-  
+## About Me
 
-- ☕ I specialize in Java and Spring☕, but I also have knowledge of Python fastapi 🌐  
-  
-
-- 🚀 I like to create innovative and efficient solutions for the problems that arise 🚀  
-  
-
-- 📂 To this day I continue to strive to constantly fill my GitHub repository 📂 to have a wide catalog of projects, as my goal is to keep growing 🌱  
+I'm a software developer with experience in a variety of technologies and completly open to learn new ones, primarily focused on Java and Python. I enjoy tackling complex problems and am dedicated to continuous improvement. My goal is to develop innovative, efficient, and scalable solutions.
   
 
 <br/>  
 
+## Experience
 
-## My Skill Set  
-<table align="center"><tr><td valign="top" width="47%">
+### Lincadatascan - Development Engineer
+*October 2023 - Present*
 
+*   Migrated a TomEE application server to a Docker environment, preparing the system for future upgrades to a newer version of Tomcat and Java.
+*   Developed a Python application using FastAPI to act as an intermediary between the host and the application server in a Docker container.
+*   Implemented a solution for resolving data inconsistencies between two databases (server and terminal), ensuring the necessary parameters were present to determine which data should persist at the end of the day.
+*   Contributed to resolving a registration issue caused by library incompatibility between the application server and applications using SymmetricDS.
 
+## Projects
+
+Here are some of the personal projects I've developed:
+
+### Todo App - Java Spring Boot
+[Munozca230/Todo-app-spring-boot](https://github.com/Munozca230/Todo-app-spring-boot)
+*   A task list application built with Java Spring Boot 3.
+*   Uses a REST API with a PostgreSQL database.
+*   Users can create, delete, modify, and mark tasks as complete.
+*   Utilizes Bootstrap with Thymeleaf for the frontend and jQuery/AJAX for API requests.
+
+### API Market - Java Spring Boot
+[Munozca230/Market-Java-Spring](https://github.com/Munozca230/Market-Java-Spring)
+*   An API developed with Java Spring Boot 3 for a marketplace.
+*   Features full CRUD functionality for interacting with a PostgreSQL database.
+*   Implements Spring Security JWT for user authentication and authorization.
 
 ## Technologies
-<div align="center">
-<a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>
-<a href="https://www.microsoft.com/en-us/sql-server" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/microsoftsqlserver-icon.svg" alt="SQL" height="50" /></a>
-<a href="https://spring.io/projects/spring-boot" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/spring-original.svg" alt="Spring Boot" height="50" /></a>
-    <a href="https://fastapi.tiangolo.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/fastapi.png" alt="FastAPI" height="50" /></a>
-<a href="https://git-scm.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/github-original.svg" alt="GitHub" height="50" /></a>
-<a href="https://azure.microsoft.com/en-us/products/devops/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/azure-original.svg" alt="Azure DevOps" height="50" /></a>
-<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original.svg" alt="Docker" height="50" /></a>
-    <a href="https://openai.com/chatgpt" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/openai-original.svg" alt="ChatGPT" height="50" /></a>
-    <a href="https://www.bing.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bing-original.svg" alt="Bing" height="50" /></a>
 
-</div>
+Here are the primary technologies I work with:
+
+**Programming Languages:** Java, Python, JavaScript, SQL
+
+**Frameworks and Libraries:** Spring Boot, FastAPI, Hibernate
+
+**Tools and Platforms:** Git, GitHub, Azure DevOps, Docker, TomEE, Tomcat, Uvicorn, n8n
+
+**AI Technologies:** GitHub Copilot, ChatGPT, Bing, Claude, Google Ai Studio
 
 
 
@@ -62,6 +71,3 @@
 </div>  
 
 <br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
