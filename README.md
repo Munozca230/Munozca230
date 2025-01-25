@@ -23,6 +23,7 @@ I'm a software developer with experience in a variety of technologies and comple
 *   Implemented a solution for resolving data inconsistencies between two databases (server and terminal), ensuring the necessary parameters were present to determine which data should persist at the end of the day.
 *   Contributed to resolving a registration issue caused by library incompatibility between the application server and applications using SymmetricDS.
 
+
 ## Projects
 
 Here are some of the personal projects I've developed:
@@ -39,6 +40,7 @@ Here are some of the personal projects I've developed:
 *   An API developed with Java Spring Boot 3 for a marketplace.
 *   Features full CRUD functionality for interacting with a PostgreSQL database.
 *   Implements Spring Security JWT for user authentication and authorization.
+
 
 ## Technologies
 
