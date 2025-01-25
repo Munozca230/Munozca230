@@ -27,7 +27,7 @@ I'm a software developer with experience in a variety of technologies and comple
 
 ## Projects
 
-Here are some of the personal projects I've developed:
+Here are some of the personal projects I've developed before starting my laboral life:
 
 ### Todo App - Java Spring Boot
 [Munozca230/Todo-app-spring-boot](https://github.com/Munozca230/Todo-app-spring-boot)
