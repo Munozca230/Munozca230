@@ -15,7 +15,7 @@ I'm a software developer with experience in a variety of technologies and comple
 
 ## Experience
 
-### Lincadatascan - Development Engineer
+### Lincadatascan (Grupo Éxito) - Development Engineer
 *October 2023 - Present*
 
 *   Migrated a TomEE application server to a Docker environment, preparing the system for future upgrades to a newer version of Tomcat and Java.
@@ -51,8 +51,6 @@ Here are the primary technologies I work with:
 **Tools and Platforms:** Git, GitHub, Azure DevOps, Docker, TomEE, Tomcat, Uvicorn, n8n
 
 **AI Technologies:** GitHub Copilot, ChatGPT, Bing, Claude, Google Ai Studio
-
-
 
 
 </td></tr></table>  
